@@ -1,0 +1,14 @@
+.gradle
+/local.properties
+/.idea/workspace.xml (этот пункт и следующий заменить на .idea)
+/.idea/libraries
+.DS_Store
+/build
+Добавить такие строки:
+gradle.properties
+.idea
+.navigation
+/captures
+*.iml
+gradlew
+gradlew.bat
